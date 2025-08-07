@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![RaflyZainn stat$$!@%@&@!#](https://github-readme-stats.vercel.app/api?username=raflyzainn&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflyzainn&show_icons=true&theme=synthwave&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
