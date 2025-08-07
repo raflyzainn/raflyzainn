@@ -53,16 +53,27 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📊 GitHub Stats
+<details>
+  <summary>📊 <strong>GitHub Stats</strong></summary>
 
-![](https://github-readme-stats.vercel.app/api?username=raflyzainn&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=raflyzainn&theme=ocean_dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raflyzainn&theme=ocean_dark&hide_border=false&layout=compact)
+  <br/>
+
+  ![](https://github-readme-stats.vercel.app/api?username=raflyzainn&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)  
+  ![](https://nirzak-streak-stats.vercel.app/?user=raflyzainn&theme=ocean_dark&hide_border=false)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raflyzainn&theme=ocean_dark&hide_border=false&layout=compact)
+
+</details>
+
 
 ---
 
 ## 👋 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raflyzainn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raflyzainn)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raflyzainn1@gmail.com)
+<p align="center">
+  <a href="https://instagram.com/raflyzainn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>  </a>
+  <a href="https://linkedin.com/in/raflyzainn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 
